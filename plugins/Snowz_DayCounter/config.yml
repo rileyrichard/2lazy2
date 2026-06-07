@@ -1,0 +1,4 @@
+# Default configuration file for Snowz_DayCounter
+settings:
+  custom-message: "Day: "
+  play-sound: true

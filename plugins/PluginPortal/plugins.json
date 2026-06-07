@@ -1,0 +1,110 @@
+[
+  {
+    "platformId": "5qkQnnWO",
+    "name": "PluginPortal",
+    "version": "2.0.4",
+    "platform": "MODRINTH",
+    "sha256": "6c9780fe6912159d4f75821b4f8e3e4fd835591788ff3957e70578c38a861dda",
+    "sha512": "d2b27287836048fd466ebddf748fd0a11dd0af0b038e759d5308a69c9ed5d065ec8b384eeb0e87df479b181f149bb337ea34d9844e640922b5fec0259f6e2151",
+    "installedAt": 1739226467566
+  },
+  {
+    "platformId": "HPIlodgS",
+    "name": "AnvilColors",
+    "version": "1.1",
+    "platform": "MODRINTH",
+    "sha256": "f3f9f0e4263c9db84568a78c2ef1269194f44e4f9d1edae8bd5160cbeb0f1ba3",
+    "sha512": "174098712774381f2aaa07c357a73bb5362d8bec396a0afff7d6df77a7f8daf616d9a7040b2dadf5a01631dfb5276cc8c6c4255e530c7498ee1d07d7e5d20973",
+    "installedAt": 1763437669936
+  },
+  {
+    "platformId": "swbUV1cr",
+    "name": "BlueMap",
+    "version": "5.13-spigot",
+    "platform": "MODRINTH",
+    "sha256": "86bd7eb2c945cff8837f5ded9827d0b5bf6c56fc8e2d39c59cb012c08b1870fa",
+    "sha512": "61ee0d77d9a20c33bdc6a74dff54a5bc099928dc4befb99cfad608eb849e76519d5b4f0abf7106765f50ce20003844a64199dc37f34d678e4d88df36698094d2",
+    "installedAt": 1763501006350
+  },
+  {
+    "platformId": "8RGGuUJ0",
+    "name": "Snowz Day Counter",
+    "version": "1.0",
+    "platform": "MODRINTH",
+    "sha256": "fc137da47c25440ebbab00859fc2d921b470be4fe58b11c7e60998cd969a20a5",
+    "sha512": "f871fb98f07153d69ca3c4fd6c1b50eb88f80c7c4edd0226f4bb7183fc904dcdce4b9b70fec3e7df1ed976690373b9f3afa2cd151671a5cea3c53937d21e8197",
+    "installedAt": 1763569941023
+  },
+  {
+    "platformId": "t9QEZM17",
+    "name": "TDR Playtime",
+    "version": "1.14.0",
+    "platform": "MODRINTH",
+    "sha256": "1efa12712b2887838b2beed97ab3ab47a624c716e806cf6e02d4fc86bcc03f0f",
+    "sha512": "592bd409e03cd5a9386055768b0bf771862eb8b7edde0c898c1cf70bc32e76f5404b49c24c27cca03b6415f76fac66b6669d0552e57c9edc464385b1167d3f93",
+    "installedAt": 1763570178789
+  },
+  {
+    "platformId": "cUhi3iB2",
+    "name": "TabTPS",
+    "version": "1.3.29",
+    "platform": "MODRINTH",
+    "sha256": "e5aa77f14a7f33a4834d25192b92c7a452a1ee2737864095b0217b0181a9dcd0",
+    "sha512": "ce36af874d767b80f95dfbd7453e2943d2257cab95eaa7e9b4ae24b1bf9369a48e8cc0f314102bdd9c34ad7851fb5d0225d456a6b9f46ebf3b232f5dbf5e33d6",
+    "installedAt": 1763591065621
+  },
+  {
+    "platformId": "csrLULrs",
+    "name": "ClickHarvest",
+    "version": "1.4.30",
+    "platform": "MODRINTH",
+    "sha256": "640507c110c23414cd47266c2d64f9928667bb3c619d1fe77a0e820133d3c1fb",
+    "sha512": "24ca7c8582ef120fd76fa9afaa0c9c99e2accaa307027bfb6a2f77eeed294d462b4fce923acb02fe646559a6a98fbfc39bec1721d07dce0a5b313efbd3136b11",
+    "installedAt": 1763592212504
+  },
+  {
+    "platformId": "oBZj9E15",
+    "name": "ToolStats",
+    "version": "1.9.10",
+    "platform": "MODRINTH",
+    "sha256": "73659e26f91584b7d119737fe1c79f29d19144a772145a8d038d825535075cd1",
+    "sha512": "cb466cc4787d25477391f89edf7ef245cf526bf741d6f5b96d9240ef9b40f9541b7de1a5f88afa3659df386ad1eaf9c3845cf221a97b890ffcd1f4fe83d7ea54",
+    "installedAt": 1763592239522
+  },
+  {
+    "platformId": "P1OZGk5p",
+    "name": "ViaVersion",
+    "version": "5.4.1",
+    "platform": "MODRINTH",
+    "sha256": "87975db43295cf235f8729d01854fc11f06ccfe9a557d0006f280b3db41a6a47",
+    "sha512": "78de4398cf48a2067726dcd8894571fb65815b0888a9eb92a80b9a9d4f50926b332b2762bc46876ac51c96071895fb1045bc24c5dbb9f30a9a455cfe83b92f01",
+    "installedAt": 1763592258928
+  },
+  {
+    "platformId": "PzvpAa1j",
+    "name": "ViaVersionStatus",
+    "version": "3.13",
+    "platform": "MODRINTH",
+    "sha256": "dc5a835eec113b9d3837cc6b1cad9cd10d591ffe1a701855a45099edffb71a32",
+    "sha512": "8d9d12b306c442c2c7ee950f2311603f3c2f30e9302eaa217f444d403da47818e2620bec4f64af2418ce22462f0557d075b9c3d0d61db0df6bf35b812aa00318",
+    "installedAt": 1763592276985
+  },
+  {
+    "platformId": "Vebnzrzj",
+    "name": "LuckPerms",
+    "version": "v5.5.17-bukkit",
+    "platform": "MODRINTH",
+    "sha256": "d5b160a3971a8372cc5835bcd555e37c1aa61e9dd30559921a5f421a11bf97dd",
+    "sha512": "773895644260b338818bfeff0c78f8d4f590f56b0f711c378a4eec91be6e8b37354099b5db1ea5b2dce4c02486213297a6da09675c9bf6f014f9a400b5772cf3",
+    "installedAt": 1763592492426
+  },
+  {
+    "platformId": "fALzjamp",
+    "name": "Chunky",
+    "version": "1.4.40",
+    "platform": "MODRINTH",
+    "sha256": "2a5477fc80f71012e15ade1ce34dbeb836e17623b28db112492c0f1443c09721",
+    "sha512": "b017fd180141b5c14c38dfb10128d5f5a1072a68ff93ee486d4465953331f5851f09a09b4a159364837a95d192198d8e9885ce39c46eed32dacbf1fd65c6f30f",
+    "installedAt": 1763594188345
+  }
+]

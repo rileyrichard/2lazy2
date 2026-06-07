@@ -1,0 +1,43 @@
+only:
+  player:
+    command: '&cThis is a player only command!'
+command:
+  playtime:
+    timemessage: '&8[&6PlayTime&8] &7Your playtime is &6%D% &7day(s) &6%H% &7hour(s)
+      &6%M% &7minute(s) &6%S% &7second(s)'
+    usertimemessage: '&8[&6PlayTime&8] &7%NAME% ''s playtime is &6%D% &7day(s) &6%H%
+      &7hour(s) &6%M% &7minute(s) &6%S% &7second(s)'
+    resettimeconfirm: '&cUser time reset!'
+    timeadded: '&aYou have successfully added playtime to <player>'
+    timeremoved: '&aYou have successfully removed playtime from <player>'
+    imported: '&aYou have successfully imported <count> players!'
+  milestone:
+    mustbenumber: '&cThe time parameter must be a number!'
+    milestonenotexist: '&cThe milestone <name> doesn''t exist!'
+    milestonecreated: '&aThe milestone is created!'
+    itemadded: '&aYou added succesfull a item to the milestone!'
+    commandadded: '&aYou added succesfull a command to the milestone!'
+    fireworktoggled: '&aYou <state> the firework for the milestone'
+    setfireworkamount: '&aYou set the firework amount to <amount>'
+    setfireworkdelay: '&aYou set the firework amount to <amount>'
+    repeatingmilestoneremoved: '&aYou have successfully removed the repeating milestone!'
+    milestoneremoved: '&aYou have successfully removed the milestone!'
+    itemremoved: '&aYou removed an item from the milestone!'
+    commandremoved: '&aYou removed an command from the milestone!'
+    list:
+    - '%MILESTONE_NAME%'
+    - ' Time: Days: %D% Hours: %H% ,Minute''s: %M% Seconds''s: %S%'
+    info:
+    - '%MILESTONE_NAME%'
+    - ' Time: Days: %D% Hours: %H% ,Minute''s: %M% Seconds''s: %S%'
+    - ' Rewards:'
+    - '    Commands(%REWARD_COMMAND_COUNT%):'
+    - '%REWARD_COMMAND%'
+    - '    Items(%REWARD_ITEMS_COUNT%):'
+    - '%REWARD_ITEMS%'
+    messageadded: '&aYou have successfully added an message to a milestone!'
+    messageremoved: '&aYou have removed a message from a milestone!'
+  defaults:
+    enabled: Enabled
+    disabled: Disabled
+version: 1.4

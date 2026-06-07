@@ -1,0 +1,15 @@
+database: yaml
+mysql:
+  hostname: localhost
+  port: 3306
+  user: root
+  password: password
+  database: playtime
+  ssl: 'false'
+  table_prefix: ''
+mongodb:
+  hostname: localhost
+  port: 27017
+  user: root
+  password: password
+  collection: playtime
