@@ -1,0 +1,20 @@
+{
+  "emoteChannels": [
+    "Spookie_Rose",
+    "fifigoesree",
+    "Mifuyu"
+  ],
+  "twitchGlobalEmotes": true,
+  "twitchSubscriberEmotes": true,
+  "bttvEmotes": true,
+  "bttvChannelEmotes": true,
+  "ffzEmotes": true,
+  "ffzChannelEmotes": true,
+  "x7tvEmotes": true,
+  "x7tvChannelEmotes": true,
+  "colorEmotes": true,
+  "activationMode": "Optional",
+  "versionName": "\u003c\u003d1.2.11",
+  "versionCode": 0,
+  "forceClearCache": false
+}
