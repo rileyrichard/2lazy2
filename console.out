@@ -1,0 +1,25 @@
+Starting org.bukkit.craftbukkit.Main
+*** Warning, you've not updated in a while! ***
+*** Please download a new build as per instructions from https://papermc.io/downloads/paper ***
+#
+# A fatal error has been detected by the Java Runtime Environment:
+#
+#  SIGSEGV (0xb) at pc=0x00007f5bdefbade2, pid=39473, tid=39512
+#
+# JRE version: OpenJDK Runtime Environment (21.0.8+9) (build 21.0.8+9-Ubuntu-0ubuntu124.04.1)
+# Java VM: OpenJDK 64-Bit Server VM (21.0.8+9-Ubuntu-0ubuntu124.04.1, mixed mode, sharing, tiered, compressed oops, compressed class ptrs, g1 gc, linux-amd64)
+# Problematic frame:
+# V  [libjvm.so+0x5bade2]  PhaseChaitin::de_ssa()+0x72
+#
+# Core dump will be written. Default location: Core dumps may be processed with "/usr/share/apport/apport -p%p -s%s -c%c -d%d -P%P -u%u -g%g -F%F -- %E" (or dumping to /opt/mscs/worlds/paradise/core.39473)
+#
+# An error report file with more information is saved as:
+# /opt/mscs/worlds/paradise/hs_err_pid39473.log
+#
+# Compiler replay data is saved as:
+# /opt/mscs/worlds/paradise/replay_pid39473.log
+#
+# If you would like to submit a bug report, please visit:
+#   https://bugs.launchpad.net/ubuntu/+source/openjdk-21
+#
+Aborted (core dumped)
